@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 项目文档
+    url: https://github.com/mcpmark-test-xjtu/DataProcessor
+    about: 查看项目 README 和使用说明
+  - name: 讨论区
+    url: https://github.com/mcpmark-test-xjtu/DataProcessor/discussions
+    about: 在讨论区提问或交流
+
